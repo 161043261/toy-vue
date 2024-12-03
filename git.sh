@@ -1,4 +1,4 @@
 git add .
-git commit -m "Otaku"
-git push origin main --set-upstream
+git commit -m "fix"
+git push origin main # --set-upstream
 echo 'Done!'
