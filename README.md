@@ -1,0 +1,16 @@
+- **feat**: feature 引入新功能
+- **fix**: 错误修正
+- **style**: 更新代码样式, 例如使用 clang-format 或 prettier
+- **refactor**: 重构代码
+- **test**: 测试代码
+- **docs**: 更新文档, 例如 README.md
+- **perf**: performance 性能优化
+- **chore**: 定期代码维护
+
+- **feat**: Introduce new features
+- **fix**: Bug fix
+- **docs**: Update documentations
+- **style**: Updates related to styling
+- **refactor**: Refactor code
+- **test**: Update code related to testing
+- **chore**: Regular code maintenance
